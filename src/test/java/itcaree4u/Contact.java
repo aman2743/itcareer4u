@@ -4,13 +4,12 @@ import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class PageTest {
+public class Contact {
 	public static WebDriver driver;
 
 	@BeforeMethod
@@ -19,31 +18,12 @@ public class PageTest {
 		driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		driver.manage().window().maximize();
-		driver.navigate().to("https://itcareer4u.com");
+		driver.navigate().to("https://www.itcareer4u.com/contact.html");
 	}
 
 	@Test
-	public void Test1() {
+	public void TestContact() {
 		System.out.println("Title First:"+driver.getTitle());
 	}
-
-	@Test
-	public void Test2() {
-		System.out.println("Current URL:"+driver.getCurrentUrl());
-	}
-
-	@Test
-	public void Test3() {
-		System.out.println("Title Second:"+driver.getTitle());
-	}
-	
-	@Test
-	public void Test4() {
-		System.out.println("Title Second:"+driver.getWindowHandle());
-	}
-	
-   @AfterMethod
-   public void tearDown() {
-	   driver.quit();
-   }
+   
 }
