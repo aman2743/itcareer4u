@@ -23,7 +23,7 @@ public class Contact {
 
 	@Test
 	public void TestContact() {
-		System.out.println("Title First:"+driver.getTitle()+":"+driver.getWindowHandle());
+		System.out.println("Title First:"+driver.getTitle()+":"+driver.getPageSource());
 		System.out.println("Title First:"+driver.getTitle()+":"+driver.getCurrentUrl());
 
 	}
