@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="20.746" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="23.302" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="webdriver.chrome.driver" value="C:\Users\Aman\.cache\selenium\chromedriver\win64\124.0.6367.91\chromedriver.exe"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="C:\Users\Aman\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Aman\AppData\Local\Temp\surefire15586352234889432477\surefirebooter-20240427115114451_3.jar C:\Users\Aman\AppData\Local\Temp\surefire15586352234889432477 2024-04-27T11-51-14_320-jvmRun1 surefire-20240427115114451_1tmp surefire_0-20240427115114451_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Aman\AppData\Local\Temp\surefire10274206420004406490\surefirebooter-20240428051301371_3.jar C:\Users\Aman\AppData\Local\Temp\surefire10274206420004406490 2024-04-28T05-13-01_218-jvmRun1 surefire-20240428051301371_1tmp surefire_0-20240428051301371_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Aman\eclipse-workspace2\itcaree4u\target\test-classes;C:\Users\Aman\eclipse-workspace2\itcaree4u\target\classes;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-java\4.18.0\selenium-java-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-api\4.18.0\selenium-api-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.18.0\selenium-chrome-driver-4.18.0.jar;C:\Users\Aman\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.18.0\selenium-chromium-driver-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-json\4.18.0\selenium-json-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.18.0\selenium-manager-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v119\4.18.0\selenium-devtools-v119-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v120\4.18.0\selenium-devtools-v120-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v121\4.18.0\selenium-devtools-v121-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.18.0\selenium-devtools-v85-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.18.0\selenium-edge-driver-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.18.0\selenium-firefox-driver-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-http\4.18.0\selenium-http-4.18.0.jar;C:\Users\Aman\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.18.0\selenium-ie-driver-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.18.0\selenium-remote-driver-4.18.0.jar;C:\Users\Aman\.m2\repository\com\google\guava\guava\33.0.0-jre\guava-33.0.0-jre.jar;C:\Users\Aman\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\Aman\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Aman\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Aman\.m2\repository\org\checkerframework\checker-qual\3.41.0\checker-qual-3.41.0.jar;C:\Users\Aman\.m2\repository\com\google\errorprone\error_prone_annotations\2.23.0\error_prone_annotations-2.23.0.jar;C:\Users\Aman\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.23.1-alpha\opentelemetry-semconv-1.23.1-alpha.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\opentelemetry-api\1.35.0\opentelemetry-api-1.35.0.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\opentelemetry-context\1.35.0\opentelemetry-context-1.35.0.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.35.0\opentelemetry-exporter-logging-1.35.0.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.35.0\opentelemetry-sdk-common-1.35.0.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.35.0\opentelemetry-sdk-extension-autoconfigure-spi-1.35.0.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.35.0\opentelemetry-sdk-extension-autoconfigure-1.35.0.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.35.0-alpha\opentelemetry-api-events-1.35.0-alpha.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.35.0\opentelemetry-sdk-trace-1.35.0.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\opentelemetry-extension-incubator\1.35.0-alpha\opentelemetry-extension-incubator-1.35.0-alpha.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.35.0\opentelemetry-sdk-1.35.0.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.35.0\opentelemetry-sdk-metrics-1.35.0.jar;C:\Users\Aman\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.35.0\opentelemetry-sdk-logs-1.35.0.jar;C:\Users\Aman\.m2\repository\net\bytebuddy\byte-buddy\1.14.12\byte-buddy-1.14.12.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-os\4.18.0\selenium-os-4.18.0.jar;C:\Users\Aman\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.18.0\selenium-safari-driver-4.18.0.jar;C:\Users\Aman\.m2\repository\org\seleniumhq\selenium\selenium-support\4.18.0\selenium-support-4.18.0.jar;C:\Users\Aman\.m2\repository\org\testng\testng\7.7.0\testng-7.7.0.jar;C:\Users\Aman\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Aman\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Aman\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\Aman\.m2\repository\io\github\bonigarcia\webdrivermanager\5.7.0\webdrivermanager-5.7.0.jar;C:\Users\Aman\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\Aman\.m2\repository\com\github\docker-java\docker-java\3.3.5\docker-java-3.3.5.jar;C:\Users\Aman\.m2\repository\com\github\docker-java\docker-java-core\3.3.5\docker-java-core-3.3.5.jar;C:\Users\Aman\.m2\repository\com\github\docker-java\docker-java-api\3.3.5\docker-java-api-3.3.5.jar;C:\Users\Aman\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\Aman\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\Aman\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\Aman\.m2\repository\org\bouncycastle\bcpkix-jdk18on\1.76\bcpkix-jdk18on-1.76.jar;C:\Users\Aman\.m2\repository\org\bouncycastle\bcprov-jdk18on\1.76\bcprov-jdk18on-1.76.jar;C:\Users\Aman\.m2\repository\org\bouncycastle\bcutil-jdk18on\1.76\bcutil-jdk18on-1.76.jar;C:\Users\Aman\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\Aman\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.3.5\docker-java-transport-httpclient5-3.3.5.jar;C:\Users\Aman\.m2\repository\com\github\docker-java\docker-java-transport\3.3.5\docker-java-transport-3.3.5.jar;C:\Users\Aman\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\Aman\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\Aman\.m2\repository\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;C:\Users\Aman\.m2\repository\org\apache\commons\commons-compress\1.26.0\commons-compress-1.26.0.jar;C:\Users\Aman\.m2\repository\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar;C:\Users\Aman\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\Aman\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\Aman\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Aman\AppData\Local\Temp\surefire15586352234889432477\surefirebooter-20240427115114451_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Aman\AppData\Local\Temp\surefire10274206420004406490\surefirebooter-20240428051301371_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.6+10"/>
@@ -59,34 +59,34 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="Test1" classname="itcaree4u.PageTest" time="0.026">
+  <testcase name="Test1" classname="itcaree4u.PageTest" time="0.021">
     <system-out><![CDATA[Title First:IT Professional Courses: Elevate Your Career with itCareer4u
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Apr 27, 2024 11:51:16 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Apr 28, 2024 5:13:05 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 124, returning the closest version; found: 121; Please update to a Selenium version that supports CDP version 124
 ]]></system-err>
   </testcase>
-  <testcase name="Test2" classname="itcaree4u.PageTest" time="0.014">
+  <testcase name="Test2" classname="itcaree4u.PageTest" time="0.019">
     <system-out><![CDATA[Current URL:https://itcareer4u.com/
 ]]></system-out>
-    <system-err><![CDATA[Apr 27, 2024 11:51:21 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[Apr 28, 2024 5:13:11 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 124, returning the closest version; found: 121; Please update to a Selenium version that supports CDP version 124
 ]]></system-err>
   </testcase>
-  <testcase name="Test3" classname="itcaree4u.PageTest" time="0.014">
+  <testcase name="Test3" classname="itcaree4u.PageTest" time="0.009">
     <system-out><![CDATA[Title Second:IT Professional Courses: Elevate Your Career with itCareer4u
 ]]></system-out>
-    <system-err><![CDATA[Apr 27, 2024 11:51:26 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[Apr 28, 2024 5:13:15 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 124, returning the closest version; found: 121; Please update to a Selenium version that supports CDP version 124
 ]]></system-err>
   </testcase>
-  <testcase name="Test4" classname="itcaree4u.PageTest" time="0.006">
-    <system-out><![CDATA[Title Second:26F0D497C270254B94E95B6605FAC752
+  <testcase name="Test4" classname="itcaree4u.PageTest" time="0.005">
+    <system-out><![CDATA[Title Second:0ACE73035669419EF115CCB29C8258FE
 ]]></system-out>
-    <system-err><![CDATA[Apr 27, 2024 11:51:31 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[Apr 28, 2024 5:13:20 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 124, returning the closest version; found: 121; Please update to a Selenium version that supports CDP version 124
 ]]></system-err>
   </testcase>
